@@ -12,5 +12,10 @@
             "email": "andu@fratu.ro"
         }
     ],
+	"autoload": {
+		"psr-4": {
+			"AnduFratu\\CakePhpConfigInstaller\\": "src"
+		}
+	},
     "minimum-stability": "dev"
 }
