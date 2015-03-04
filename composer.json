@@ -6,7 +6,7 @@
         "composer-plugin-api": "1.0.0"
     },
     "extra": {
-        "class": "AnduFratu\\CakePphConfigInstaller\\Plugin"
+        "class": "AnduFratu\\CakePhpConfigInstaller\\Plugin"
     },
     "license": "MIT",
     "authors": [
