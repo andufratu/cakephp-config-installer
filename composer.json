@@ -1,0 +1,16 @@
+{
+    "name": "andu/cakephp-config-installer",
+    "description": "Custom installer to handle CakePHP 2.0 configuration repos",
+    "type": "composer-plugin",
+    "require": {
+        "composer-plugin-api": "1.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andu Fratu",
+            "email": "andu@fratu.ro"
+        }
+    ],
+    "minimum-stability": "dev"
+}
