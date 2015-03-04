@@ -1,5 +1,5 @@
 {
-    "name": "andu/cakephp-config-installer",
+    "name": "andufratu/cakephp-config-installer",
     "description": "Custom installer to handle CakePHP 2.0 configuration repos",
     "type": "composer-plugin",
     "require": {
@@ -12,10 +12,10 @@
             "email": "andu@fratu.ro"
         }
     ],
-	"autoload": {
-		"psr-4": {
-			"AnduFratu\\CakePhpConfigInstaller\\": "src"
-		}
-	},
+    "autoload": {
+        "psr-4": {
+            "AnduFratu\\CakePhpConfigInstaller\\": "src"
+        }
+    },
     "minimum-stability": "dev"
 }
