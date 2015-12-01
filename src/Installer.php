@@ -14,4 +14,8 @@ class Installer extends LibraryInstaller {
         return 'Config';
     }
 
+    public function getInstallPath(PackageInterface $package) {
+        return 'Config';
+    }
+
 }
