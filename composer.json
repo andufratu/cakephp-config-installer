@@ -3,7 +3,7 @@
     "description": "Custom installer to handle CakePHP 2.0 configuration repos",
     "type": "composer-plugin",
     "require": {
-        "composer-plugin-api": "1.0.0"
+        "composer-plugin-api": "~1.0"
     },
     "extra": {
         "class": "AnduFratu\\CakePhpConfigInstaller\\Plugin"
